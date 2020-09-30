@@ -1,6 +1,5 @@
 # IACV
 Course of Image Analysis and Computer Vision - PoliMi 2020-2021
-
  [Aula virtuale - Caglioti Vincenzo](https://politecnicomilano.webex.com/meet/vincenzo.caglioti?t=1601453944739&polij_step=0&__pj0=0&__pj1=94bef5ae3ca815f070d2a0cd77eab99c)
  
  [Aula virtuale - Boracchi Giacomo](https://politecnicomilano.webex.com/meet/giacomo.boracchi?t=1601453944739&polij_step=0&__pj0=0&__pj1=94bef5ae3ca815f070d2a0cd77eab99c)
